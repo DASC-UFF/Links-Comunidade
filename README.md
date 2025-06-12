@@ -109,6 +109,7 @@ A comunidade está dividida em três categorias principais:
 - [Jogos e Partidas](https://abre.ai/jogos-partidas-dasc)  
 - [Cursos e Workshops](https://abre.ai/cursos-workshps-dasc)  
 - [Desapego e Trocas](https://abre.ai/desapego-trocas-dasc)
+- [Concursos e Editais](https://abre.ai/concursos-editais-dasc)
 
 ---
 
