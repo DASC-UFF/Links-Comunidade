@@ -2,43 +2,36 @@
 
 ## 📚 Índice
 
-- [🎯 Propósito](#-propósito)
-- [📜 Código de Conduta](#-código-de-conduta)
-- [🧭 Organização dos Grupos](#-organização-dos-grupos)
-  - [🏫 Grupos por Polo](#-grupos-por-polo)
-  - [📘 Grupos por Disciplina](#-grupos-por-disciplina)
-  - [💬 Grupos Gerais](#-grupos-gerais)
-- [🚀 Envolva-se!](#-envolva-se)
+- [🎯 Propósito](#🎯-propósito)
+- [📜 Código de Conduta](#📜-código-de-conduta)
+- [🧭 Organização dos Grupos](#🧭-organização-dos-grupos)
+  - [🏫 Grupos por Polo](#🏫-grupos-por-polo)
+  - [📘 Grupos por Disciplina](#📘-grupos-por-disciplina)
+  - [💬 Grupos Gerais](#💬-grupos-gerais)
+- [🚀 Envolva-se!](#🚀-envolva-se)
 
 ---
-
-## 🎯 Propósito
+<details>
+<summary><h2>🎯 Propósito</h2><i> clique para expandir</i></summary>
 
 Esta comunidade foi criada para:
 
 - 🤝 Acolher e integrar alunos, tutores, professores e coordenadores;
 - 🧭 Oferecer suporte do ingresso à conclusão do curso;
 - 🛠️ Facilitar a comunicação, especialmente com a UFF — nossa instituição mãe.
-
+</details>
 ---
 
 ## 📜 Código de Conduta
 
-Para garantir um ambiente respeitoso e produtivo, acesse nosso [**Código de Conduta**](https://abre.ai/codigo-de-conduta-dasc).
+Acesse nosso [**Código de Conduta**](https://abre.ai/codigo-de-conduta-dasc) para garantir um ambiente respeitoso e produtivo.
 
 ---
 
 ## 🧭 Organização dos Grupos
 
-A comunidade está dividida em três categorias principais:
-
-- **Polos** – comunicação local e suporte regional  
-- **Disciplinas** – para dúvidas, troca de materiais e estudo colaborativo  
-- **Gerais** – integração ampla da comunidade
-
----
-
-## 🏫 Grupos por Polo
+<details>
+<summary>🏫 <strong>Grupos por Polo</strong> <i>clique para expandir</i></summary>
 
 - [Rocinha](https://abre.ai/polo-rocinha-dasc)  
 - [Rio Bonito](https://abre.ai/polo-rio-bonito-dasc)  
@@ -57,13 +50,16 @@ A comunidade está dividida em três categorias principais:
 - [Piraí](https://abre.ai/polo-pirai-dasc)  
 - [Saquarema](https://abre.ai/polo-saquarema-dasc)  
 - [Volta Redonda](https://abre.ai/polo-volta-redonda-dasc)  
-- [São Gonçalo](https://abre.ai/polo-sao-goncalo-dasc)  
+- [São Gonçalo](https://abre.ai/polo-sao-goncalo-dasc)
+
+</details>
 
 ---
 
-## 📘 Grupos por Disciplina
+<details>
+<summary>📘 <strong>Grupos por Disciplina</strong> <i>clique para expandir</i></summary>
 
-### 🔹 Disciplinas Obrigatórias
+### 🔹 Obrigatórias
 
 - [Introdução à Informática](https://abre.ai/disciplina-introducao-a-informatica-dasc)  
 - [Construção de Página Web](https://abre.ai/disciplina-construcao-de-pagina-web-dasc)  
@@ -90,17 +86,20 @@ A comunidade está dividida em três categorias principais:
 - [Computação Gráfica](https://abre.ai/disciplina-computacao-grafica-dasc)  
 - [Empreendedorismo e Ética Profissional](https://abre.ai/disciplina-empreendedorismo-etica-profissional-dasc)  
 - [Redes de Computadores II](https://abre.ai/disciplina-redes-de-computadores-ii-dasc)  
-- [Trabalho de Conclusão de Curso](https://abre.ai/disciplina-trabalho-de-conclusao-de-curso-dasc)  
+- [Trabalho de Conclusão de Curso](https://abre.ai/disciplina-trabalho-de-conclusao-de-curso-dasc)
 
-### 🟨 Disciplinas Optativas
+### 🟨 Optativas
 
-- [Matemática Básica](https://abre.ai/disciplina-matematica-basica-dasc) — _Optativa mediante dispensa por nota de ingresso_  
-- [Linguagem Brasileira de Sinais (LIBRAS)](https://abre.ai/disciplina-linguagem-brasileira-de-sinais-dasc)  
+- [Matemática Básica](https://abre.ai/disciplina-matematica-basica-dasc) — _optativa mediante dispensa_  
+- [Libras](https://abre.ai/disciplina-linguagem-brasileira-de-sinais-dasc)  
 - [Desafios de Programação](https://abre.ai/disciplina-desafios-de-programacao-dasc)
+
+</details>
 
 ---
 
-## 💬 Grupos Gerais
+<details>
+<summary>💬 <strong>Grupos Gerais</strong> <i>clique para expandir</i></summary>
 
 - [Chat Geral](https://abre.ai/chat-geral-dasc)  
 - [Calouros 2025.1](https://abre.ai/calouros-25-1-dasc)  
@@ -108,6 +107,8 @@ A comunidade está dividida em três categorias principais:
 - [Jogos e Partidas](https://abre.ai/jogos-partidas-dasc)  
 - [Cursos e Workshops](https://abre.ai/cursos-workshps-dasc)  
 - [Desapego e Trocas](https://abre.ai/desapego-trocas-dasc)
+
+</details>
 
 ---
 
