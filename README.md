@@ -65,46 +65,51 @@ A comunidade está dividida em três categorias principais:
 ## 📘 Grupos por Disciplina
 
 ### 🔹 Disciplinas Obrigatórias
-
-- [Introdução à Informática](https://abre.ai/disciplina-introducao-a-informatica-dasc)  
-- [Construção de Página Web](https://abre.ai/disciplina-construcao-de-pagina-web-dasc)  
-- [Inglês Instrumental](https://abre.ai/disciplina-ingles-instrumental-dasc)  
-- [Projeto e Desenvolvimento de Algoritmos](https://abre.ai/disciplina-projeto-desenvolvimento-de-algoritmos-dasc)  
-- [Álgebra Linear](https://abre.ai/disciplina-algebra-linear-dasc)  
-- [Fundamentos de Algoritmos para Computação](https://abre.ai/disciplina-fundamentos-algoritmos-para-computacao-dasc)  
-- [Organização de Computadores](https://abre.ai/disciplina-organizacao-de-computadores-dasc)  
-- [Fundamentos de Programação](https://abre.ai/disciplina-fundamentos-programacao-dasc)  
-- [Estrutura de Dados](https://abre.ai/disciplina-estrutura-de-dados-dasc)  
-- [Matemática para Computação](https://abre.ai/disciplina-matematica-para-computacao-dasc)  
-- [Física para Computação](https://abre.ai/disciplina-fisica-para-computacao-dasc)  
-- [Programação com Interfaces Gráficas](https://abre.ai/disciplina-programacao-com-interfaces-graficas-dasc)  
-- [Banco de Dados](https://abre.ai/disciplina-banco-de-dados-dasc)  
-- [Modelagem de Informação](https://abre.ai/disciplina-modelagem-de-informacao-dasc)  
-- [Probabilidade e Estatística](https://abre.ai/disciplina-probabilidade-e-estatistica-dasc)  
-- [Sistemas Operacionais](https://abre.ai/disciplina-sistemas-operacionais-dasc)  
-- [Programação Orientada a Objetos](https://abre.ai/disciplina-programacao-orientada-a-objetos-dasc)  
-- [Análise de Sistemas](https://abre.ai/disciplina-analise-de-sistemas-dasc)  
-- [Engenharia de Software](https://abre.ai/disciplina-engenharia-de-software-dasc)  
-- [Redes de Computadores I](https://abre.ai/disciplina-redes-de-computadores-i-dasc)  
-- [Programação de Aplicações Web](https://abre.ai/disciplina-programacao-de-aplicacoes-web-dasc)  
-- [Arquitetura e Projeto de Sistemas](https://abre.ai/disciplina-arquitetura-e-projeto-de-sistemas-dasc)  
-- [Computação Gráfica](https://abre.ai/disciplina-computacao-grafica-dasc)  
-- [Empreendedorismo e Ética Profissional](https://abre.ai/disciplina-empreendedorismo-etica-profissional-dasc)  
-- [Redes de Computadores II](https://abre.ai/disciplina-redes-de-computadores-ii-dasc)  
-- [Trabalho de Conclusão de Curso](https://abre.ai/disciplina-trabalho-de-conclusao-de-curso-dasc)  
+1º período:
+- Introdução à Informática [Whatsapp](https://abre.ai/disciplina-introducao-a-informatica-dasc) | [Telegram]( http://bit.ly/IaIgroup)
+- Construção de Página Web [Whatsapp](https://abre.ai/disciplina-construcao-de-pagina-web-dasc) | [Telegram](http://bit.ly/CPWgroup)
+- Inglês Instrumental [Whatsapp](https://abre.ai/disciplina-ingles-instrumental-dasc) | [Telegram](http://bit.ly/InglesGroup)
+- Projeto e Desenvolvimento de Algoritmos [Whatsapp](https://abre.ai/disciplina-projeto-desenvolvimento-de-algoritmos-dasc)  | [Telegram](http://bit.ly/PDAgroup)
+2º período:
+- Álgebra Linear [Whatsapp](https://abre.ai/disciplina-algebra-linear-dasc) | [Telegram](http://bit.ly/Algebragroup)
+- Fundamentos de Algoritmos para Computação [Whatsapp](https://abre.ai/disciplina-fundamentos-algoritmos-para-computacao-dasc) | [Telegram](http://bit.ly/FACGroup)
+- Organização de Computadores [Whatsapp](https://abre.ai/disciplina-organizacao-de-computadores-dasc) | [Telegram](http://bit.ly/OCgroup)
+- Fundamentos de Programação [Whatsapp](https://abre.ai/disciplina-fundamentos-programacao-dasc) | [Telegram](http://bit.ly/FPgroup)
+3º período:
+- Estrutura de Dados [Whatsapp](https://abre.ai/disciplina-estrutura-de-dados-dasc) | [Telegram](http://bit.ly/EDgroup)
+- Matemática para Computação [Whatsapp](https://abre.ai/disciplina-matematica-para-computacao-dasc) | [Telegram](http://bit.ly/MatCompgroup)
+- Física para Computação [Whatsapp](https://abre.ai/disciplina-fisica-para-computacao-dasc) | [Telegram](http://bit.ly/Fisicagroup)
+- Programação com Interfaces Gráficas [Whatsapp](https://abre.ai/disciplina-programacao-com-interfaces-graficas-dasc) | [Telegram](http://bit.ly/PIGgroup)
+4º período:
+- Banco de Dados [Whatsapp](https://abre.ai/disciplina-banco-de-dados-dasc) | [Telegram](http://bit.ly/BDadosgroup)
+- Modelagem de Informação [Whatsapp](https://abre.ai/disciplina-modelagem-de-informacao-dasc) | [Telegram](http://bit.ly/MIgroup)
+- Probabilidade e Estatística [Whatsapp](https://abre.ai/disciplina-probabilidade-e-estatistica-dasc) | [Telegram](http://bit.ly/ProbEstgroup)
+- Programação Orientada a Objetos [Whatsapp](https://abre.ai/disciplina-programacao-orientada-a-objetos-dasc) | [Telegram](http://bit.ly/POOgroup)
+5º período:
+- Sistemas Operacionais [Whatsapp](https://abre.ai/disciplina-sistemas-operacionais-dasc) | [Telegram](http://bit.ly/SOgroup)
+- Análise de Sistemas [Whatsapp](https://abre.ai/disciplina-analise-de-sistemas-dasc) | [Telegram](http://bit.ly/Analisegroup)
+- Engenharia de Software [Whatsapp](https://abre.ai/disciplina-engenharia-de-software-dasc) | [Telegram](http://bit.ly/EngSoftwgroup)
+- Redes de Computadores I [Whatsapp](https://abre.ai/disciplina-redes-de-computadores-i-dasc) | [Telegram](http://bit.ly/RedesIgroup)
+- Programação de Aplicações Web [Whatsapp](https://abre.ai/disciplina-programacao-de-aplicacoes-web-dasc) | [Telegram](http://bit.ly/PAWgroup)
+6º período:
+- Arquitetura e Projeto de Sistemas [Whatsapp](https://abre.ai/disciplina-arquitetura-e-projeto-de-sistemas-dasc) | [Telegram](http://bit.ly/ArqSistgroup)
+- Computação Gráfica [Whatsapp](https://abre.ai/disciplina-computacao-grafica-dasc) | [Telegram](http://bit.ly/CompGrafgroup)
+- Empreendedorismo e Ética Profissional [Whatsapp](https://abre.ai/disciplina-empreendedorismo-etica-profissional-dasc) | [Telegram](http://bit.ly/Eticagroup)
+- Redes de Computadores II [Whatsapp](https://abre.ai/disciplina-redes-de-computadores-ii-dasc) | [Telegram](http://bit.ly/RedesIIgroup)
+- Trabalho de Conclusão de Curso [Whatsapp](https://abre.ai/disciplina-trabalho-de-conclusao-de-curso-dasc) | [Telegram](http://bit.ly/TrabCCgroup)
 
 ### 🟨 Disciplinas Optativas
 
-- [Matemática Básica](https://abre.ai/disciplina-matematica-basica-dasc) — _Optativa mediante dispensa por nota de ingresso_  
-- [Linguagem Brasileira de Sinais (LIBRAS)](https://abre.ai/disciplina-linguagem-brasileira-de-sinais-dasc)  
-- [Desafios de Programação](https://abre.ai/disciplina-desafios-de-programacao-dasc)
+- Matemática Básica [Whatsapp](https://abre.ai/disciplina-matematica-basica-dasc) | [Telegram](http://bit.ly/MatBasicgroup) — _Optativa mediante dispensa por nota de ingresso_  
+- Linguagem Brasileira de Sinais (LIBRAS) [Whatsapp](https://abre.ai/disciplina-linguagem-brasileira-de-sinais-dasc)  
+- Desafios de Programação [Whatsapp](https://abre.ai/disciplina-desafios-de-programacao-dasc)
 
 ---
 
 ## 💬 Grupos Gerais
 
-- [Chat Geral](https://abre.ai/chat-geral-dasc)  
-- [Calouros 2025.1](https://abre.ai/calouros-25-1-dasc)  
+- Chat Geral [Whatsapp](https://abre.ai/chat-geral-dasc) | [Telegram](https://t.me/SistComputacao_UFF)
+- [Calouros 2025.2]([https://abre.ai/calouros-25-1-dasc](https://chat.whatsapp.com/Ee2D3xRAnFh2UzGwF7dXOE))  
 - [Vagas de Emprego e Estágio](https://abre.ai/vagas-emprego-e-estagio-dasc)  
 - [Jogos e Partidas](https://abre.ai/jogos-partidas-dasc)  
 - [Cursos e Workshops](https://abre.ai/cursos-workshps-dasc)  
