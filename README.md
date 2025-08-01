@@ -70,27 +70,32 @@ A comunidade está dividida em três categorias principais:
 - Construção de Página Web [Whatsapp](https://abre.ai/disciplina-construcao-de-pagina-web-dasc) | [Telegram](http://bit.ly/CPWgroup)
 - Inglês Instrumental [Whatsapp](https://abre.ai/disciplina-ingles-instrumental-dasc) | [Telegram](http://bit.ly/InglesGroup)
 - Projeto e Desenvolvimento de Algoritmos [Whatsapp](https://abre.ai/disciplina-projeto-desenvolvimento-de-algoritmos-dasc)  | [Telegram](http://bit.ly/PDAgroup)
+  
 2º período:
 - Álgebra Linear [Whatsapp](https://abre.ai/disciplina-algebra-linear-dasc) | [Telegram](http://bit.ly/Algebragroup)
 - Fundamentos de Algoritmos para Computação [Whatsapp](https://abre.ai/disciplina-fundamentos-algoritmos-para-computacao-dasc) | [Telegram](http://bit.ly/FACGroup)
 - Organização de Computadores [Whatsapp](https://abre.ai/disciplina-organizacao-de-computadores-dasc) | [Telegram](http://bit.ly/OCgroup)
 - Fundamentos de Programação [Whatsapp](https://abre.ai/disciplina-fundamentos-programacao-dasc) | [Telegram](http://bit.ly/FPgroup)
+  
 3º período:
 - Estrutura de Dados [Whatsapp](https://abre.ai/disciplina-estrutura-de-dados-dasc) | [Telegram](http://bit.ly/EDgroup)
 - Matemática para Computação [Whatsapp](https://abre.ai/disciplina-matematica-para-computacao-dasc) | [Telegram](http://bit.ly/MatCompgroup)
 - Física para Computação [Whatsapp](https://abre.ai/disciplina-fisica-para-computacao-dasc) | [Telegram](http://bit.ly/Fisicagroup)
 - Programação com Interfaces Gráficas [Whatsapp](https://abre.ai/disciplina-programacao-com-interfaces-graficas-dasc) | [Telegram](http://bit.ly/PIGgroup)
+  
 4º período:
 - Banco de Dados [Whatsapp](https://abre.ai/disciplina-banco-de-dados-dasc) | [Telegram](http://bit.ly/BDadosgroup)
 - Modelagem de Informação [Whatsapp](https://abre.ai/disciplina-modelagem-de-informacao-dasc) | [Telegram](http://bit.ly/MIgroup)
 - Probabilidade e Estatística [Whatsapp](https://abre.ai/disciplina-probabilidade-e-estatistica-dasc) | [Telegram](http://bit.ly/ProbEstgroup)
 - Programação Orientada a Objetos [Whatsapp](https://abre.ai/disciplina-programacao-orientada-a-objetos-dasc) | [Telegram](http://bit.ly/POOgroup)
+  
 5º período:
 - Sistemas Operacionais [Whatsapp](https://abre.ai/disciplina-sistemas-operacionais-dasc) | [Telegram](http://bit.ly/SOgroup)
 - Análise de Sistemas [Whatsapp](https://abre.ai/disciplina-analise-de-sistemas-dasc) | [Telegram](http://bit.ly/Analisegroup)
 - Engenharia de Software [Whatsapp](https://abre.ai/disciplina-engenharia-de-software-dasc) | [Telegram](http://bit.ly/EngSoftwgroup)
 - Redes de Computadores I [Whatsapp](https://abre.ai/disciplina-redes-de-computadores-i-dasc) | [Telegram](http://bit.ly/RedesIgroup)
 - Programação de Aplicações Web [Whatsapp](https://abre.ai/disciplina-programacao-de-aplicacoes-web-dasc) | [Telegram](http://bit.ly/PAWgroup)
+  
 6º período:
 - Arquitetura e Projeto de Sistemas [Whatsapp](https://abre.ai/disciplina-arquitetura-e-projeto-de-sistemas-dasc) | [Telegram](http://bit.ly/ArqSistgroup)
 - Computação Gráfica [Whatsapp](https://abre.ai/disciplina-computacao-grafica-dasc) | [Telegram](http://bit.ly/CompGrafgroup)
