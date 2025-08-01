@@ -114,7 +114,7 @@ A comunidade está dividida em três categorias principais:
 ## 💬 Grupos Gerais
 
 - Chat Geral [Whatsapp](https://abre.ai/chat-geral-dasc) | [Telegram](https://t.me/SistComputacao_UFF)
-- [Calouros 2025.2]([https://abre.ai/calouros-25-1-dasc](https://chat.whatsapp.com/Ee2D3xRAnFh2UzGwF7dXOE))  
+- [Calouros 2025.2](https://chat.whatsapp.com/Ee2D3xRAnFh2UzGwF7dXOE)  
 - [Vagas de Emprego e Estágio](https://abre.ai/vagas-emprego-e-estagio-dasc)  
 - [Jogos e Partidas](https://abre.ai/jogos-partidas-dasc)  
 - [Cursos e Workshops](https://abre.ai/cursos-workshps-dasc)  
